@@ -1,0 +1,30 @@
+#Operators
+ # 1.Boolean: It has only two values True & False
+a = True
+b = False
+print(type(a),type(b))
+
+# 2. Assignment Operators: =,+=,-=,%=,*=,/=,%=,//=,**=,&=,|=,>>=,<<=,^=
+
+a,b = 5,4
+a  += 4 # a = a+4
+b -= 3 # a = a-4
+print(a,b)
+
+# 3. Arithmetic Operators : +,-,*,/,%,//,**
+
+a = 3+5
+b = 3-5
+c = 2*4
+d = 4/2
+e = 26%5
+f = 25//5
+g = 2**2
+print(a,b,c,d,e,f,g)
+
+#4. 
+
+name = open("D:\POWER BI\Power BI Doc\File.txt",'a')
+name.write(" hello ")
+name.close()
+

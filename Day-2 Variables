@@ -1,0 +1,20 @@
+a = min(10,20,30,40,5)
+b = max(20,30,40,10,6)
+c = sum([10,20,30,40,50])
+print(a,b,c)
+
+name,city,Gender = 'Hello','hyd','M'
+print(name)
+print(city)
+
+first_name = input('Enter your name: ')
+print(first_name)
+
+num = 10
+print(float(num))
+
+a = input('enter:')
+print(a)
+
+name = 'satyaraghava'
+print(len(name))

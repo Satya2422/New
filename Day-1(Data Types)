@@ -1,0 +1,21 @@
+a = 'Hello'
+print(type(a))
+
+b = 2422
+print(type(b))
+
+c= [1,2,3,4,5]
+print(type(c))
+4
+d ={1,2,3,4,5,8}
+print(type(d))
+
+f={1:'name','num':23}
+print(type(f))
+
+e=(1.4,3,4,5)
+print(type(e))
+
+g = True
+print(type(g))
+type(g)
